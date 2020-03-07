@@ -1,2 +1,2 @@
 # RIMATA
-Reporsitory for Rimata App Project
+Repository for Rimata App Project
